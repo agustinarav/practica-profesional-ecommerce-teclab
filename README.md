@@ -1,5 +1,5 @@
 # practica-profesional-trusty-manager
-Este repositorio forma parte del trabajo final de la Práctica Profesional de la Tecnicatura en Aseguramiento de la Calidad de Software del Instituto Técnico Superior TECLAB, y tiene fines académicos. Su objetivo es analizar y realizar actividades de testing sobre la aplicación Trusty-Manager (link)
+Este repositorio forma parte del trabajo final de la Práctica Profesional de la Tecnicatura en Aseguramiento de la Calidad de Software del Instituto Técnico Superior TECLAB, y tiene fines académicos. Su objetivo es analizar y realizar actividades de testing sobre la aplicación [Trusty-Manager](https://github.com/TrusTheDev/Trusty-Manager)
 
 Trusty-Manager es una aplicación de escritorio orientada a la gestión de datos, diseñada para simplificar tareas repetitivas de ingreso de información mediante la definición de comportamientos automatizados entre columnas, relaciones personalizadas y acciones impulsadas por valores ingresados por el usuario.
 
