@@ -1,4 +1,4 @@
-# practica-profesional-trusty-manager
+# practica-profesional-ecommerce-teclab
 Este repositorio forma parte del trabajo final de la Práctica Profesional de la Tecnicatura en Aseguramiento de la Calidad de Software del Instituto Técnico Superior TECLAB, y tiene fines académicos. Su objetivo es analizar y realizar actividades de testing sobre 
 
 
