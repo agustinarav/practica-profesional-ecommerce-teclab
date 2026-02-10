@@ -31,18 +31,19 @@
     • Validaciones básicas (carrito vacío, stock)
 
 #### Stock y disponibilidad 
-Producto sin stock
-Límite de unidades
-Mensajes de disponibilidad
+    • Producto sin stock
+    • Límite de unidades
+    • Mensajes de disponibilidad
 
 #### Precios, impuestos y descuentos
 Incluye:
+
     • Precio correcto en ficha vs carrito
     • Descuentos
     • Impuestos
 
 
-##### Prioridad Media – Severidad Alta
+#### Prioridad Media – Severidad Alta
 No siempre bloquean la compra, afectan la experiencia y la conversión
 
 #### Registro e inicio de sesión
@@ -70,6 +71,7 @@ No siempre bloquean la compra, afectan la experiencia y la conversión
       
 #### Métodos de pago 
 Incluye:
+
     • Visualización de métodos
     • Mensajes de error
     • Redirección a pasarela
@@ -97,7 +99,7 @@ No bloquean ventas, pero afectan confianza y usabilidad
 
 
 ### Prioridad Baja – Severidad Baja
-#### Impacto indirecto o a largo plazo
+Impacto indirecto o a largo plazo
 
 #### Emails automáticos
     • Confirmación de registro
