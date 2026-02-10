@@ -33,8 +33,8 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 ## Organización de la documentación
 
 #### Documentación descriptiva  
-- docs/
-(user flows) 
+- docs/  
+(user flows, doc de cierre de pruebas, ux analisis) 
   
 #### Documentos de diseño de pruebas  
 - test-design/
@@ -49,7 +49,7 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 
 #### Pruebas visuales
 - evidencia/  
- -screenshots/exploratory/
+ -screenshots/exploratory/   
  -videos/
 
 #### Defectos y fallos
