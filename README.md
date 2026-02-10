@@ -37,11 +37,13 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 (user flows, doc de cierre de pruebas, ux analisis) 
   
 #### Documentos de diseño de pruebas  
-- test-design/
+- [Diseño de pruebas (test‑design)](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/tree/main/test-design)
 
-      • exploratory-testing/  
-      - checklist funcional
-      - test-cases preliminares
+   • exploratory-testing/
+    - Notas de sesion  
+    - [Checklist funcional de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/checklist-funcional.md)   
+    - [Test cases preliminares de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/test-cases-preliminares.md)
+
   
       • test-strategy  
       • test-plan  
