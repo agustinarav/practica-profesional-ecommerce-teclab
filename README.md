@@ -33,17 +33,19 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 ## Organización de la documentación
 
 #### Documentación descriptiva  
-- docs/  
+• docs/  
+    - [Documento de UX - Acercamiento al sitio Adidas Argentina](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/docs/Documento%20de%20UX%20-%20Acercamiento%20al%20sitio%20Adidas%20Argentina.pdf)
+    
 (user flows, doc de cierre de pruebas, ux analisis) 
   
 #### Documentos de diseño de pruebas  
 • test-design/ exploratory-testing/    
     - [Notas de sesión](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/tree/main/test-design/exploratory-testing/notas-de-sesion)  
     - [Checklist funcional de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/checklist-funcional.md)   
-    - [Test cases preliminares de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/test-cases-preliminares.md)
+    - [Casos de prueba preliminares de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/test-cases-preliminares.md)
 
+    - [Estrategia de pruebas]()
   
-      • test-strategy  
       • test-plan  
       • test-cases  / Notion 
       • test-data → datasets reutilizables  
