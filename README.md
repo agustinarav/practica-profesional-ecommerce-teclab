@@ -57,8 +57,11 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
       • videos/
 
 #### Defectos y fallos
-- bugs/
-
+• Bugs documentados con Github Issues y tablero de Proyectos  
+    - [Bug tracker](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/issues)  
+    - [Tablero](https://github.com/users/agustinarav/projects/1)  
+    - carpeta /bugs (evidencias, Resumen de defectos encontrados, Métricas de defectos, Análisis de defectos) 
+  
 #### Material externo
 - recursos/
 (documentación de referencia)
