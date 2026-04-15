@@ -33,34 +33,39 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 ## Organización de la documentación
 
 #### Documentación descriptiva  
-• docs/  
+- docs/  
     - [Documento de UX - Acercamiento al sitio Adidas Argentina](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/docs/Documento%20de%20UX%20-%20Acercamiento%20al%20sitio%20Adidas%20Argentina.pdf)
     
 (user flows, doc de cierre de pruebas, ux analisis) 
   
 #### Documentos de diseño de pruebas  
-• test-design/ exploratory-testing/    
+- test-design/ exploratory-testing/    
     - [Notas de sesión](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/tree/main/test-design/exploratory-testing/notas-de-sesion)  
     - [Checklist funcional de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/checklist-funcional.md)   
     - [Casos de prueba preliminares de pruebas exploratorias](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/test-design/exploratory-testing/test-cases-preliminares.md)  
-    - [Estrategia de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/back-pp-ecommerce-teclab/test-design/estrategia-de-pruebas-adidas-arg.pdf)  
-    - [Plan de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/back-pp-ecommerce-teclab/test-design/plan-de-pruebas-adidas-arg.pdf)
-
+    - [Estrategia de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/test-design/estrategia-de-pruebas/1.1.0-estrategia-de-pruebas-adidas-arg.pdf)  
+    - [Plan de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/test-design/plan-de-pruebas/1.2.0-plan-de-pruebas-adidas-arg.pdf)  
+    - [Casos de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/tree/backup-practica-profesional/test-design/casos-de-prueba)  
+    - [CP-Flujo de compra E2E](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/test-design/casos-de-prueba/flujo-de-compra-E2E-adidas.pdf)  
     
-      • test-cases  / Notion 
-      • test-data → datasets reutilizables  
+- [Casos de pruebas- Notion](https://www.notion.so/Casos-de-prueba-Adidas-Argentina-33bd40741a7980ce9ceddbb7e5f1eecc?source=copy_link)  
+      - CP  
+      - Ejecución  
+      - Estados de casos de prueba  
+      - Lista de severidad y prioridades  
+ 
+    
 
 #### Pruebas visuales
 - evidencia/
    
-      • screenshots/exploratory/   
-      • videos/
-
+     
 #### Defectos y fallos
 • Bugs documentados con Github Issues y tablero de Proyectos  
     - [Bug tracker](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/issues)  
     - [Tablero](https://github.com/users/agustinarav/projects/1)  
-    - carpeta /bugs (evidencias, Resumen de defectos encontrados, Métricas de defectos, Análisis de defectos) 
+    - carpeta /bugs 
+    
   
 #### Material externo
 - recursos/
