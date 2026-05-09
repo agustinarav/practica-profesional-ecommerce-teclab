@@ -35,7 +35,7 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 #### Documentación descriptiva  
 - docs/  
     - [Documento de UX - Acercamiento al sitio Adidas Argentina](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/docs/Documento%20de%20UX%20-%20Acercamiento%20al%20sitio%20Adidas%20Argentina.pdf)
-    - [Documento de cierre de pruebas]()  
+    - [Documento de cierre de pruebas](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/main/docs/informe-de-cierre-de-pruebas.pdf)  
 
   
 #### Documentos de diseño de pruebas  
@@ -59,7 +59,7 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
 
 #### Pruebas visuales
 - evidencias/
-   - [Evidencias de ejecución]()  
+   - [Evidencias de ejecución](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/tree/main/evidencias)  
      
 #### Defectos y fallos
 • Bugs documentados con Github Issues y tablero de Proyectos  
