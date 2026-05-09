@@ -49,7 +49,7 @@ El sitio web de Adidas se ejecuta en un entorno web y está pensado para ser uti
     - [CP-Flujo de compra E2E](https://github.com/agustinarav/practica-profesional-ecommerce-teclab/blob/backup-practica-profesional/test-design/casos-de-prueba/flujo-de-compra-E2E-adidas.pdf)  
     
 - [Casos de pruebas- Notion](https://www.notion.so/Casos-de-prueba-Adidas-Argentina-33bd40741a7980ce9ceddbb7e5f1eecc?source=copy_link)  
-      Incluye:
+      Incluye:  
       - CP  
       - Ejecución  
       - Estados de casos de prueba  
